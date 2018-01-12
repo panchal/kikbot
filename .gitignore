@@ -1,0 +1,8 @@
+target
+.idea/**
+*.iml
+.bb/**
+.project
+.settings
+.checkstyle
+logs

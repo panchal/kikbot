@@ -1,0 +1,9 @@
+{
+	"webhook": "http://55bad8cb.ngrok.io/incoming", 
+		"features": {
+			"manuallySendReadReceipts": false, 
+			"receiveReadReceipts": false, 
+			"receiveDeliveryReceipts": false, 
+			"receiveIsTyping": false
+		}
+}
